@@ -28,4 +28,4 @@ Classify the land: You can use machine learning-based classification algorithms 
 Visualize the data: You can use Python libraries such as Matplotlib, Seaborn, or Plotly to visualize the processed data in the form of graphs, maps, or interactive visualizations.
 
 
-OR
+#Adding Geophysics and GEOdata to expand this repo
